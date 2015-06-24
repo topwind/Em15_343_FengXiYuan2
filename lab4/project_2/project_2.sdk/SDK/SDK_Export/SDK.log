@@ -1,0 +1,93 @@
+13:16:37.440 INFO  - Processing command line option -hwspec C:/xup/embedded/labs/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+13:23:13.086 INFO  - Processor reset is completed for ps7_cortexa9_0 
+13:23:13.195 INFO  - PS initialization will be done as it is not done before. 
+13:23:13.195 INFO  - Running PS initialization.... 
+13:23:13.507 INFO  - ps7_init is completed. 
+13:23:13.617 INFO  - PS Initialization is complete. 
+13:25:51.725 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+22:00:12.274 INFO  - Processing command line option -hwspec F:/emd/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+22:00:12.518 INFO  - The hardware specification for project 'hw_platform_0' is different from F:/emd/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+22:00:12.708 INFO  - Copied contents of F:/emd/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml into \hw_platform_0\system.xml. 
+22:00:12.744 INFO  - Copied contents of F:\emd\lab1\lab1.sdk\SDK\SDK_Export\hw\system_wrapper.bit into \hw_platform_0\system.bit. 
+22:00:16.236 INFO  - Copied contents of F:\emd\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.c into \hw_platform_0\ps7_init.c. 
+22:00:16.633 INFO  - Copied contents of F:\emd\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.h into \hw_platform_0\ps7_init.h. 
+22:00:16.670 INFO  - Copied contents of F:\emd\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.html into \hw_platform_0\ps7_init.html. 
+22:00:16.673 INFO  - Copied contents of F:\emd\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_summary.html into \hw_platform_0\ps7_summary.html. 
+22:00:16.681 INFO  - Copied contents of F:\emd\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.tcl into \hw_platform_0\ps7_init.tcl. 
+22:00:16.807 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+22:00:18.762 INFO  - Updating MSS for Board Support Package Project: mem_test_bsp.
+		 The following new driver assignments were made:
+			Peripheral Instance: btns_4bit, driver: gpio_v3_01_a.
+			Peripheral Instance: sw_4bit, driver: gpio_v3_01_a.
+ 
+22:00:19.537 INFO  - Updating hardware inferred compiler options for mem_test. 
+22:00:19.547 INFO  - Clearing existing target manager status. 
+22:00:23.338 INFO  - Closing and re-opening the MSS file of ther project mem_test_bsp 
+22:00:25.021 INFO  - Workspace synchronized with the new hardware specification file. Cleaning dependent projects... 
+22:08:51.950 INFO  - FPGA configured successfully with bitstream "F:/emd/lab1/lab1.sdk/SDK/SDK_Export/hw_platform_0/system.bit" 
+22:09:18.711 INFO  - Processor reset is completed for ps7_cortexa9_0 
+22:09:18.811 INFO  - PS initialization will be done as it is not done before. 
+22:09:18.811 INFO  - Running PS initialization.... 
+22:09:19.208 INFO  - ps7_init is completed. 
+22:09:19.308 INFO  - ps7_post_config is completed. 
+22:09:19.408 INFO  - PS Initialization is complete. 
+22:12:38.067 INFO  - FPGA Cable Disconnected. All active launches will be terminated. 
+22:23:00.001 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+20:27:43.280 INFO  - Processing command line option -hwspec C:/Users/Fengxiyuan/Desktop/lab4/project_2/project_2.sdk/SDK/SDK_Export/hw/system.xml. 
+20:27:45.535 INFO  - The hardware specification for project 'hw_platform_0' is different from C:/Users/Fengxiyuan/Desktop/lab4/project_2/project_2.sdk/SDK/SDK_Export/hw/system.xml. 
+20:27:45.645 INFO  - Copied contents of C:/Users/Fengxiyuan/Desktop/lab4/project_2/project_2.sdk/SDK/SDK_Export/hw/system.xml into \hw_platform_0\system.xml. 
+20:27:45.679 INFO  - Copied contents of C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw\system_wrapper.bit into \hw_platform_0\system_wrapper.bit. 
+20:27:45.683 INFO  - Copied contents of C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw\system_wrapper_bd.bmm into \hw_platform_0\system_bd.bmm. 
+20:27:55.559 INFO  - Copied contents of C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw\ps7_init.c into \hw_platform_0\ps7_init.c. 
+20:27:56.957 INFO  - Copied contents of C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw\ps7_init.h into \hw_platform_0\ps7_init.h. 
+20:27:56.968 INFO  - Copied contents of C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw\ps7_init.html into \hw_platform_0\ps7_init.html. 
+20:27:56.970 INFO  - Copied contents of C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw\ps7_summary.html into \hw_platform_0\ps7_summary.html. 
+20:27:56.973 INFO  - Copied contents of C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw\ps7_init.tcl into \hw_platform_0\ps7_init.tcl. 
+20:27:58.553 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+20:27:59.292 ERROR - Exception while attemping to 'diff' files C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw_platform_0\system_wrapper_bd.bmm and C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw\system_wrapper_bd.bmm. 
+20:27:59.292 INFO  - Updating .bit and .bmm files from XPS's export folder. 
+20:28:09.367 INFO  - Updating MSS for Board Support Package Project: standalone_bsp_0.
+		 The following new driver assignments were made:
+			Peripheral Instance: axi_bram_ctrl_0, driver: bram_v3_03_a.
+			Peripheral Instance: led_ip, driver: generic_v1_00_a.
+ 
+20:29:08.839 INFO  - Copied contents of C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw\system_wrapper.bit into \hw_platform_0\system_wrapper.bit. 
+20:29:08.862 INFO  - Copied contents of C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\hw\system_wrapper_bd.bmm into \hw_platform_0\system_wrapper_bd.bmm. 
+20:29:09.652 INFO  - Updating hardware inferred compiler options for TestApp. 
+20:29:09.661 INFO  - Clearing existing target manager status. 
+20:29:19.338 ERROR - Unexpected error while obtaining referenced S/W project {} org.eclipse.core.internal.resources.ResourceException: Resource '/mem_test' is not open.
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:150)
+	at org.eclipse.core.internal.resources.Project.getReferencedProjects(Project.java:521)
+
+20:29:19.339 ERROR - Unexpected error while obtaining referenced S/W project {} org.eclipse.core.internal.resources.ResourceException: Resource '/mem_test_bsp' is not open.
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:150)
+	at org.eclipse.core.internal.resources.Project.getReferencedProjects(Project.java:521)
+
+21:32:13.927 INFO  - Saving repository preferences. 
+21:32:13.927 INFO  - Reading in cores from local repositories: 
+		 D:\study\embededLinx\shiyan2\lab\project\led_ip\managed_ip_project\led_ip_1.0 
+21:32:13.927 INFO  - Updating libgen.options on all BSP projects. 
+21:32:13.943 INFO  - Cleaning BSP projects in the workspace. 
+21:39:54.583 INFO  - Settings changed on project standalone_bsp_0. Triggering a rebuild... 
+21:39:57.407 INFO  - Refreshed build settings on project TestApp 
+21:39:57.422 INFO  - Refreshed build settings on project lab4 
+21:52:32.517 INFO  - FPGA configured successfully with bitstream "C:/Users/Fengxiyuan/Desktop/lab4/project_2/project_2.sdk/SDK/SDK_Export/hw_platform_0/system_wrapper.bit" 
+21:53:50.580 INFO  - Processor reset is completed for ps7_cortexa9_0 
+21:53:50.689 INFO  - PS initialization will be done as it is not done before. 
+21:53:50.689 INFO  - Running PS initialization.... 
+21:53:50.954 INFO  - ps7_init is completed. 
+21:53:51.064 INFO  - ps7_post_config is completed. 
+21:53:51.173 INFO  - PS Initialization is complete. 
+22:04:29.606 INFO  - Successfully generated C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\lab4\src\lscript.ld. 
+22:04:29.606 INFO  - Applying linker script to all configurations of project lab4. 
+22:04:29.606 INFO  - Setting rebuild state to true for all configurations of project lab4. 
+22:05:57.658 INFO  - Successfully generated C:\Users\Fengxiyuan\Desktop\lab4\project_2\project_2.sdk\SDK\SDK_Export\lab4\src\lscript.ld. 
+22:05:57.658 INFO  - Applying linker script to all configurations of project lab4. 
+22:05:57.658 INFO  - Setting rebuild state to true for all configurations of project lab4. 
+22:06:38.140 INFO  - ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+22:06:41.417 INFO  - Processor reset is completed for ps7_cortexa9_0 
+22:11:34.703 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+22:11:40.819 ERROR - Unexpected error while terminating XMD: {} org.eclipse.debug.core.DebugException: Terminate failed
+	at org.eclipse.debug.core.model.RuntimeProcess.terminate(RuntimeProcess.java:224)
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.terminate(Unknown Source)
+
